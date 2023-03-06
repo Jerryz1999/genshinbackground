@@ -1,2 +1,0 @@
-# genshinbackground
-Lazy to update
